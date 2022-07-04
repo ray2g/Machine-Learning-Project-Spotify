@@ -1,0 +1,70 @@
+Best Candidate Features for K= 1 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.5691 
+ Total Time : 1119.4641528129578  sec 
+
+
+Best Candidate Features for K= 2 : ['danceability', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'energy', 'tempo', 'speechiness', 'duration_ms', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.5608 
+ Total Time : 727.9545199871063  sec 
+
+
+Best Candidate Features for K= 4 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'loudness'] 
+ F1_Score: 0.6004 
+ Total Time : 529.5460317134857  sec 
+
+
+Best Candidate Features for K= 5 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6119 
+ Total Time : 716.0673007965088  sec 
+
+
+Best Candidate Features for K= 7 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'loudness', 'instrumentalness', 'sections'] 
+ F1_Score: 0.6215 
+ Total Time : 939.1858117580414  sec 
+
+
+Best Candidate Features for K= 8 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.624 
+ Total Time : 831.7555501461029  sec 
+
+
+Best Candidate Features for K= 10 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'instrumentalness', 'speechiness', 'loudness'] 
+ F1_Score: 0.6294 
+ Total Time : 790.2382504940033  sec 
+
+
+Best Candidate Features for K= 11 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6296 
+ Total Time : 685.7828209400177  sec 
+
+
+Best Candidate Features for K= 13 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6335 
+ Total Time : 700.5309998989105  sec 
+
+
+Best Candidate Features for K= 14 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'instrumentalness', 'loudness'] 
+ F1_Score: 0.6343 
+ Total Time : 700.3720011711121  sec 
+
+
+Best Candidate Features for K= 16 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6374 
+ Total Time : 666.0432796478271  sec 
+
+
+Best Candidate Features for K= 17 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'duration_ms', 'tempo', 'speechiness', 'instrumentalness', 'loudness'] 
+ F1_Score: 0.6386 
+ Total Time : 716.6008975505829  sec 
+
+
+Best Candidate Features for K= 19 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6386 
+ Total Time : 840.1062400341034  sec 
+
+
+Best Candidate Features for K= 20 : ['danceability', 'energy', 'decade_0.0', 'decade_1.0', 'decade_2.0', 'decade_3.0', 'decade_4.0', 'decade_5.0', 'tempo', 'duration_ms', 'speechiness', 'loudness', 'instrumentalness'] 
+ F1_Score: 0.6389 
+ Total Time : 665.0287625789642  sec 
+
+
